@@ -1,2 +1,5 @@
-# iot-based-cost-effective-home-automation-and-security-system-
+# iot-based-cost-effective-home-automation-and-security-system
 This is a IEEE research paper published in 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT) 2020 at IIT - Kharagpur, India
+## Abstract
+Nowadays role of intelligent machines in our life is very valuable. With the advancement of digital technologies like
+IoT and machine learning many embedded systems are developed for various applications. Even in homes also, people are depending on machines to finish many tasks of order small to critical activities like cleaning, washing to security. Hence in this work concentration is paid on the design and development of low cost, reliable solution useful for both in home automation and security by using the Node MCU and Google Assistant. This system can monitor and control various parameters like temperature, humidity, light intensity. It can detect the fire, motion and also provides the security to home with the help of automatic door locking system. It will take the vocal commands from the google assistant and data from the sensors and are analysed in the cloud server IFTTT. Based on the derived decision corresponding control action will be initiated to adjust the physical parameters and restores the required environment.
